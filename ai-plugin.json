@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_model": "huberman_lab_plugin",
+    "name_for_human": "Huberman Lab Plugin",
+    "description_for_model": "Use this tool to serach for any health related information within the podcast episodes of Andrew Huberman. Use it whenever a user asks a health related question.",
+    "description_for_human": "Talk to Huberman Lab Podcast!",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "https://huberman-chatgpt-plugin-ydwff2foea-uc.a.run.app/openapi.json",
+      "has_user_authentication": false
+    },
+    "logo_url": "https://huberman-chatgpt-plugin-ydwff2foea-uc.a.run.app/image",
+    "contact_email": "arseny9795@gmail.com",
+    "legal_info_url": "arseny9795@gmail.com"
+  }

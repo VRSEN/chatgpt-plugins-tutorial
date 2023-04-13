@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+# required for embeddings
+openai
+pinecone-client
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
