@@ -1,4 +1,5 @@
-# This is a FastAPI-based project that demonstrates how to search a Pinecone database and use OpenAI for text embeddings. The application can be deployed to Google Cloud Run.
+# ChatGPT Plugins Tutorial
+This is a FastAPI-based project that demonstrates how to create your own contextual Q&A chatgpt plugin. The application can be deployed to Google Cloud Run.
 
 ## Prerequisites
 * Python 3.9
