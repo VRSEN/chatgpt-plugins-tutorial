@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Run the Application Locally
 Start the FastAPI application:
 
-4. Add your Pinecone and OpenAI API keys to the .env file:
+1. Set the environment variables:
     
 ```bash
 # windows
@@ -40,9 +40,8 @@ export PINECONE_API_KEY=your_pinecone_api_key
 export PINECONE_ENVIRONMENT=your_pinecone_environment
 export OPENAI_API_KEY=your_openai_api_key
 ```
-# Run the Application Locally
 
-1. Start the FastAPI application:
+2. Start the FastAPI application:
 
 ```
 python main.py
