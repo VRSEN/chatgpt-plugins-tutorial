@@ -13,6 +13,6 @@
       "has_user_authentication": false
     },
     "logo_url": "http://localhost:8080/image",
-    "contact_email": "arseny9795@gmail.com",
-    "legal_info_url": "arseny9795@gmail.com"
+    "contact_email": "example@gmail.com",
+    "legal_info_url": "example@gmail.com"
   }
