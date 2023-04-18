@@ -9,10 +9,10 @@
     },
     "api": {
       "type": "openapi",
-      "url": "https://huberman-chatgpt-plugin-ydwff2foea-uc.a.run.app/openapi.json",
+      "url": "http://localhost:8080/openapi.json",
       "has_user_authentication": false
     },
-    "logo_url": "https://huberman-chatgpt-plugin-ydwff2foea-uc.a.run.app/image",
+    "logo_url": "http://localhost:8080/image",
     "contact_email": "arseny9795@gmail.com",
     "legal_info_url": "arseny9795@gmail.com"
   }
