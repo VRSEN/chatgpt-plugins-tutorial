@@ -1,6 +1,8 @@
 # ChatGPT Plugins Tutorial
 This is a FastAPI-based project that demonstrates how to create your own contextual Q&A chatgpt plugin. The application can be deployed to Google Cloud Run.
 
+[![Youtube thumbnail](HubermanGPT2_compressed.png)](https://youtu.be/D1yqgFTKMyM)
+
 ## Prerequisites
 * Python 3.9
 * Google Cloud SDK
