@@ -69,7 +69,7 @@ Replace your-project-id with your Google Cloud project ID.
 gcloud run deploy fastapi-app --image gcr.io/your-project-id/fastapi-app --platform managed --region your-region --allow-unauthenticated --set-env-vars="PINECONE_API_KEY=your_pinecone_api_key,PINECONE_ENVIRONMENT=your_pinecone_environment,OPENAI_API_KEY=your_openai_api_key"
 
 # mac, linux
-gcloud run deploy fastapi-app --image gcr.io/your-project-id/fastapi-app --platform managed --region your-region --allow-unauthenticated --set-env-vars=PINECONE_API_KEY=your_pinecone_api_key,PINECONE_ENVIRONMENT=your_pinecone_environment,OPENAI_API_KEY=your_openai_api_key
+gcloud run deploy fastapi-app --image gcr.io/your-project-id/fastapi-app --platform managed --region your-region --allow-unauthenticated --set-env-vars PINECONE_API_KEY=your_pinecone_api_key,PINECONE_ENVIRONMENT=your_pinecone_environment,OPENAI_API_KEY=your_openai_api_key
 ```
 Replace your-project-id with your Google Cloud project ID, and your-region with the desired region for your Cloud Run service (e.g., us-central1).
 
